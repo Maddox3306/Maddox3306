@@ -28,12 +28,12 @@
 
   <br/>
     <a href="https://github.com/Maddox3306/github-readme-stats"><img alt="Maddox Github Stats" src="https://github-readme-stats.vercel.app/api?username=Blxw&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Maddox3306/github-readme-stats"><img alt="Maddox Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blxw&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Maddox3306/github-readme-stats"><img alt="Maddox Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maddox3306&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <br/>
 <br/>
 
-<a href="https://github.com/Maddox3306/github-readme-activity-graph"><img alt="Maddox Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Blxw&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Maddox3306/github-readme-activity-graph"><img alt="Maddox Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Maddox3306&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
