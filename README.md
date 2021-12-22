@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I play games.**
 
-## 🚀 Languages and Tools:
+## 🚀 Projects, Languages and Tools:
 
 <p align="left">  
     <a href="https://melion.cloud/" target="_blank"> <img src="https://cdn.discordapp.com/attachments/922627634716868609/923332329173291008/melone__.png"/> </a> 
